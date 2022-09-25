@@ -1,10 +1,12 @@
-import Button from "./../src/components/Button/index";
+import Button from '../src/components/Button/Button';
 
 export default function HomeScreen() {
   return (
     <div>
-      <h1>Home Page</h1>
-      <Button>Botão simplão</Button>
+      <h1>Home Page!</h1>
+      <Button>
+        Botão simplão
+      </Button>
     </div>
-  );
+  )
 }
