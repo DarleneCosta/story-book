@@ -8,9 +8,9 @@ const theme = {
     },
     accent: {
       main: "#ad1457",
-      light: "#e35186",
+      light: "#e35183",
       dark: "#78002e",
-      text: "#ffffff",
+      text: "#FFFFFF",
     },
   },
 };
